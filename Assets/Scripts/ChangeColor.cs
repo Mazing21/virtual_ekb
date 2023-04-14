@@ -10,9 +10,9 @@ public class ChangeColor : MonoBehaviour
     float maxAlpha = 1f;
     float minAlpha = 0.1f;
     public float alphaDelta = 0.001f;
-    public  bool darker = false;
+    public bool darker = false;
     public float sumTime = 0;
-    
+    public MoveImage mi;
     public float ind;
     // Start is called before the first frame update
     void Start()
@@ -28,7 +28,7 @@ public class ChangeColor : MonoBehaviour
     void Update()
     {
         ChangeCol();
-        
+
     }
 
 
@@ -43,6 +43,8 @@ public class ChangeColor : MonoBehaviour
         if (ind >= maxAlpha)
         {
             darker = false;
+            mi.ChangeImage();
+
         }
         if (ind <= minAlpha)
         {
@@ -50,37 +52,14 @@ public class ChangeColor : MonoBehaviour
         }
         if (darker)
         {
-            ind+=alphaDelta;
+            ind += alphaDelta;
         }
         else
         {
-            ind-= alphaDelta;
+            ind -= alphaDelta;
         }
         ChangeAlpha(ind);
     }
-
-    IEnumerator SetAlpha()
-    {
-        for(float i = maxAlpha; ;)
-        {
-            if (i == maxAlpha)
-            {
-                darker = false;
-            }
-            if (i == minAlpha)
-            {
-                darker = true;
-            }
-            if (darker)
-            {
-                i++;
-            }
-            else
-            {
-                i--;
-            }
-            ChangeAlpha(i);
-            yield return new WaitForSeconds(0.5f);
-        }
-    }
 }
+
+    
