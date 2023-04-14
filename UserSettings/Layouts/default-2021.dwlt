@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 125
+  controlID: 17
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 69
+  controlID: 79
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 42
+  controlID: 80
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/prefabs/tree/laxer tree pkg/Models
+    - Assets/prefabs/3d/chuchs/Materials
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/prefabs/tree/laxer tree pkg/Models
+  - Assets/prefabs/3d/chuchs/Materials
   m_LastFoldersGridSize: -1
   m_LastProjectPath: "C:\\Users\\\u0423\u0447\u0435\u043D\u0438\u043A\\Documents\\GitHub\\virtual_ekb"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c65e0000
-    m_LastClickedID: 24262
-    m_ExpandedIDs: 00000000a65e0000be5e0000c85e0000ca5e000000ca9a3b
+    m_SelectedIDs: c65f0000
+    m_LastClickedID: 24518
+    m_ExpandedIDs: 00000000a85e0000ae5e0000b85e0000ba5e0000bc5e0000205f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a65e0000
+    m_ExpandedIDs: 00000000a85e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -387,7 +387,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -490,18 +490,18 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 30fbffff6a5b0000aa5c0000
+      m_ExpandedIDs: a4f4ffff30fbffffaa5c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Text (TMP)
-        m_OriginalName: Text (TMP)
+        m_Name: Cylinder.002
+        m_OriginalName: Cylinder.002
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 23450
+        m_UserData: -2960
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
         m_OriginalEventType: 0
@@ -772,9 +772,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -3.649828, y: 8.359402, z: -102.459335}
+    m_Target: {x: 60.39765, y: 21.43686, z: 46.261116}
     speed: 2
-    m_Value: {x: -3.649828, y: 8.359402, z: -102.459335}
+    m_Value: {x: 60.39765, y: 21.43686, z: 46.261116}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -821,13 +821,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.18250811, y: -0.29148844, z: 0.056762416, w: 0.93731207}
+    m_Target: {x: -0.04236476, y: 0.31806618, z: 0.014190945, w: 0.9470912}
     speed: 2
-    m_Value: {x: 0.18258843, y: -0.29007483, z: 0.056487165, w: 0.93772453}
+    m_Value: {x: -0.04506437, y: 0.32650828, z: 0.015550443, w: 0.94399136}
   m_Size:
-    m_Target: 13.55356
+    m_Target: 72.54565
     speed: 2
-    m_Value: 13.55356
+    m_Value: 72.54565
   m_Ortho:
     m_Target: 0
     speed: 2
