@@ -4,6 +4,6 @@ public class IgratButton : MonoBehaviour
 {
      public void OnClickPlayButton()
      {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(1);
      }
 }

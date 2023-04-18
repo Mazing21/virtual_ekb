@@ -9,9 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: f4035d50dba767e4a8495501ffb0ecf4
   - enabled: 1
-    path: Assets/Scenes/MenuRoom.unity
-    guid: f3d1d19a3c64b0a429ec9123afc7d35a
-  - enabled: 1
     path: Assets/Scenes/ganinaYama.unity
     guid: 81afc60c705278943a0682fa3d85161c
+  - enabled: 1
+    path: Assets/Scenes/MenuRoom.unity
+    guid: f3d1d19a3c64b0a429ec9123afc7d35a
   m_configObjects: {}
