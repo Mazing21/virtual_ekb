@@ -44,8 +44,18 @@ MonoBehaviour:
     height: 989
   m_ShowMode: 4
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   m_Title: Scene
   m_RootView: {fileID: 6}
+=======
+  m_Title: Project
+  m_RootView: {fileID: 5}
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+  m_Title: Project
+  m_RootView: {fileID: 5}
+>>>>>>> parent of e97fc218 (gan yama cammit)
 =======
   m_Title: Project
   m_RootView: {fileID: 5}
@@ -104,6 +114,8 @@ MonoBehaviour:
   vertical: 0
   controlID: 101904
 --- !u!114 &5
+<<<<<<< HEAD
+<<<<<<< HEAD
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -209,6 +221,10 @@ MonoBehaviour:
   m_Selected: 0
   m_LastSelected: 1
 --- !u!114 &6
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit)
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -222,9 +238,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Children:
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 7}
   - {fileID: 2}
   - {fileID: 8}
+=======
+  - {fileID: 6}
+  - {fileID: 8}
+  - {fileID: 7}
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+  - {fileID: 6}
+  - {fileID: 8}
+  - {fileID: 7}
+>>>>>>> parent of e97fc218 (gan yama cammit)
 =======
   - {fileID: 6}
   - {fileID: 8}
@@ -243,7 +271,15 @@ MonoBehaviour:
   m_UseBottomView: 1
   m_BottomViewHeight: 20
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &7
+=======
+--- !u!114 &6
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+--- !u!114 &6
+>>>>>>> parent of e97fc218 (gan yama cammit)
 =======
 --- !u!114 &6
 >>>>>>> parent of e97fc218 (gan yama cammit)
@@ -269,7 +305,15 @@ MonoBehaviour:
   m_MaxSize: {x: 0, y: 0}
   m_LastLoadedLayoutName: 
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &8
+=======
+--- !u!114 &7
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+--- !u!114 &7
+>>>>>>> parent of e97fc218 (gan yama cammit)
 =======
 --- !u!114 &7
 >>>>>>> parent of e97fc218 (gan yama cammit)
@@ -294,7 +338,15 @@ MonoBehaviour:
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &9
+=======
+--- !u!114 &8
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+--- !u!114 &8
+>>>>>>> parent of e97fc218 (gan yama cammit)
 =======
 --- !u!114 &8
 >>>>>>> parent of e97fc218 (gan yama cammit)
@@ -311,9 +363,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Children:
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 10}
   - {fileID: 5}
 =======
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit)
   - {fileID: 9}
   - {fileID: 14}
   m_Position:
@@ -341,6 +399,12 @@ MonoBehaviour:
   m_Children:
   - {fileID: 10}
   - {fileID: 13}
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
 >>>>>>> parent of e97fc218 (gan yama cammit)
   m_Position:
     serializedVersion: 2
@@ -352,7 +416,15 @@ MonoBehaviour:
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 17
+=======
+  controlID: 101508
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+  controlID: 101508
+>>>>>>> parent of e97fc218 (gan yama cammit)
 =======
   controlID: 101508
 >>>>>>> parent of e97fc218 (gan yama cammit)
@@ -370,8 +442,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Children:
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 4}
   - {fileID: 11}
+=======
+  - {fileID: 11}
+  - {fileID: 12}
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+  - {fileID: 11}
+  - {fileID: 12}
+>>>>>>> parent of e97fc218 (gan yama cammit)
 =======
   - {fileID: 11}
   - {fileID: 12}
@@ -380,6 +462,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
     width: 1229
     height: 549
@@ -394,6 +478,20 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
+=======
+    width: 1466
+    height: 534
+  m_MinSize: {x: 200, y: 100}
+  m_MaxSize: {x: 16192, y: 8096}
+  vertical: 0
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+    width: 1466
+    height: 534
+  m_MinSize: {x: 200, y: 100}
+  m_MaxSize: {x: 16192, y: 8096}
+  vertical: 0
+>>>>>>> parent of e97fc218 (gan yama cammit)
   controlID: 101509
 --- !u!114 &11
 MonoBehaviour:
@@ -422,6 +520,12 @@ MonoBehaviour:
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &12
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
 >>>>>>> parent of e97fc218 (gan yama cammit)
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -440,6 +544,8 @@ MonoBehaviour:
     x: 310
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     width: 919
     height: 549
   m_MinSize: {x: 200, y: 200}
@@ -456,6 +562,22 @@ MonoBehaviour:
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
+=======
+    width: 1042
+    height: 534
+  m_MinSize: {x: 102, y: 121}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 16}
+  m_Panes:
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+    width: 1042
+    height: 534
+  m_MinSize: {x: 102, y: 121}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 16}
+  m_Panes:
+>>>>>>> parent of e97fc218 (gan yama cammit)
   - {fileID: 18}
   - {fileID: 19}
   - {fileID: 20}
@@ -515,7 +637,17 @@ MonoBehaviour:
   - {fileID: 23}
   - {fileID: 24}
   - {fileID: 25}
+<<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of e97fc218 (gan yama cammit)
+  m_Selected: 0
+  m_LastSelected: 2
+--- !u!114 &15
+=======
+  m_Selected: 0
+  m_LastSelected: 2
+--- !u!114 &15
+=======
   m_Selected: 0
   m_LastSelected: 2
 --- !u!114 &15
@@ -542,6 +674,122 @@ MonoBehaviour:
     y: 128
     width: 641
     height: 582
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+--- !u!114 &16
+>>>>>>> parent of e97fc218 (gan yama cammit)
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12043, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 640, y: 580}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Build Settings
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+<<<<<<< HEAD
+    x: 685
+    y: 128
+    width: 641
+    height: 582
+=======
+    x: 424
+    y: 73
+    width: 1040
+    height: 513
+>>>>>>> parent of e97fc218 (gan yama cammit)
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+--- !u!114 &16
+>>>>>>> parent of e97fc218 (gan yama cammit)
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12043, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 640, y: 580}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Build Settings
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+<<<<<<< HEAD
+    x: 685
+    y: 128
+    width: 641
+    height: 582
+=======
+    x: 424
+    y: 73
+    width: 1040
+    height: 513
+>>>>>>> parent of e97fc218 (gan yama cammit)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -669,6 +917,8 @@ MonoBehaviour:
   m_XRRenderMode: 0
   m_RenderTexture: {fileID: 0}
 --- !u!114 &17
+<<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of e97fc218 (gan yama cammit)
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -879,6 +1129,10 @@ MonoBehaviour:
     m_IsLocked: 0
   m_PreviewWindow: {fileID: 0}
 --- !u!114 &16
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit)
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -906,6 +1160,12 @@ MonoBehaviour:
 =======
     width: 423
     height: 513
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
 >>>>>>> parent of e97fc218 (gan yama cammit)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -917,11 +1177,27 @@ MonoBehaviour:
       m_SelectedIDs: 
       m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
       m_ExpandedIDs: 68c5feffaa7affff30fbffffb05c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: Box006
         m_OriginalName: Box006
+=======
+      m_ExpandedIDs: 563cf5ff983cf5ff9a3cf5ff8a41f5ff9641f5ffac42f5ffee42f5ff7844f5ff7e49f5ff8e49f5ffd64ff5ff8654f5ffde54f5ff7256f5ffa656f5ff885bf5ff3ae4f6ff8ae4f6ff0ce6f6ff2ee6f6ff18ebf6ffae5bf7ff1edbf7ff50dcf7ff6653feff0cc5feffa6f5ffff30fbffff7463000078630000b2640000d2640000f864000076650000c466000076670000b2670000de67000010680000e40d0200e80d020076100200e0100200f010020088120200a413020030150200da1502005a1702006e18020076180200001902008c5503005c5603006c560300b0560300
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+      m_ExpandedIDs: 563cf5ff983cf5ff9a3cf5ff8a41f5ff9641f5ffac42f5ffee42f5ff7844f5ff7e49f5ff8e49f5ffd64ff5ff8654f5ffde54f5ff7256f5ffa656f5ff885bf5ff3ae4f6ff8ae4f6ff0ce6f6ff2ee6f6ff18ebf6ffae5bf7ff1edbf7ff50dcf7ff6653feff0cc5feffa6f5ffff30fbffff7463000078630000b2640000d2640000f864000076650000c466000076670000b2670000de67000010680000e40d0200e80d020076100200e0100200f010020088120200a413020030150200da1502005a1702006e18020076180200001902008c5503005c5603006c560300b0560300
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+>>>>>>> parent of e97fc218 (gan yama cammit)
 =======
       m_ExpandedIDs: 563cf5ff983cf5ff9a3cf5ff8a41f5ff9641f5ffac42f5ffee42f5ff7844f5ff7e49f5ff8e49f5ffd64ff5ff8654f5ffde54f5ff7256f5ffa656f5ff885bf5ff3ae4f6ff8ae4f6ff0ce6f6ff2ee6f6ff18ebf6ffae5bf7ff1edbf7ff50dcf7ff6653feff0cc5feffa6f5ffff30fbffff7463000078630000b2640000d2640000f864000076650000c466000076670000b2670000de67000010680000e40d0200e80d020076100200e0100200f010020088120200a413020030150200da1502005a1702006e18020076180200001902008c5503005c5603006c560300b0560300
       m_RenameOverlay:
@@ -936,7 +1212,15 @@ MonoBehaviour:
           width: 0
           height: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
         m_UserData: -34138
+=======
+        m_UserData: 0
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+        m_UserData: 0
+>>>>>>> parent of e97fc218 (gan yama cammit)
 =======
         m_UserData: 0
 >>>>>>> parent of e97fc218 (gan yama cammit)
@@ -945,7 +1229,15 @@ MonoBehaviour:
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
         m_ClientGUIView: {fileID: 4}
+=======
+        m_ClientGUIView: {fileID: 11}
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+        m_ClientGUIView: {fileID: 11}
+>>>>>>> parent of e97fc218 (gan yama cammit)
 =======
         m_ClientGUIView: {fileID: 11}
 >>>>>>> parent of e97fc218 (gan yama cammit)
@@ -957,7 +1249,15 @@ MonoBehaviour:
     m_CurrentSortingName: TransformSorting
   m_WindowGUID: 4c969a2b90040154d917609493e03593
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &17
+=======
+--- !u!114 &18
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+--- !u!114 &18
+>>>>>>> parent of e97fc218 (gan yama cammit)
 =======
 --- !u!114 &18
 >>>>>>> parent of e97fc218 (gan yama cammit)
@@ -988,6 +1288,12 @@ MonoBehaviour:
 =======
     width: 1040
     height: 513
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
 >>>>>>> parent of e97fc218 (gan yama cammit)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -1224,9 +1530,21 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 693.76794, y: -266.61905, z: 651.8723}
     speed: 2
     m_Value: {x: 693.76794, y: -266.61905, z: 651.8723}
+=======
+    m_Target: {x: 15.060372, y: 17.83561, z: -81.66453}
+    speed: 2
+    m_Value: {x: 15.060372, y: 17.83561, z: -81.66453}
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+    m_Target: {x: 15.060372, y: 17.83561, z: -81.66453}
+    speed: 2
+    m_Value: {x: 15.060372, y: 17.83561, z: -81.66453}
+>>>>>>> parent of e97fc218 (gan yama cammit)
 =======
     m_Target: {x: 15.060372, y: 17.83561, z: -81.66453}
     speed: 2
@@ -1279,6 +1597,8 @@ MonoBehaviour:
     m_gridOpacity: 0.5
   m_Rotation:
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -0.124018855, y: -0.39109418, z: 0.05314681, w: -0.91065246}
     speed: 2
     m_Value: {x: -0.1277546, y: -0.39621562, z: 0.055662766, w: -0.90752053}
@@ -1286,6 +1606,24 @@ MonoBehaviour:
     m_Target: 510.25626
     speed: 2
     m_Value: 488.2835
+=======
+    m_Target: {x: 0.035629004, y: -0.97744966, z: -0.15458322, w: -0.14667527}
+    speed: 2
+    m_Value: {x: 0.03559189, y: -0.97643137, z: -0.15442218, w: -0.14652248}
+  m_Size:
+    m_Target: 17.974222
+    speed: 2
+    m_Value: 17.974222
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+    m_Target: {x: 0.035629004, y: -0.97744966, z: -0.15458322, w: -0.14667527}
+    speed: 2
+    m_Value: {x: 0.03559189, y: -0.97643137, z: -0.15442218, w: -0.14652248}
+  m_Size:
+    m_Target: 17.974222
+    speed: 2
+    m_Value: 17.974222
+>>>>>>> parent of e97fc218 (gan yama cammit)
 =======
     m_Target: {x: 0.035629004, y: -0.97744966, z: -0.15458322, w: -0.14667527}
     speed: 2
@@ -1320,8 +1658,14 @@ MonoBehaviour:
   m_LastLockedObject: {fileID: 0}
   m_ViewIsLockedToObject: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &18
 =======
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit)
 --- !u!114 &19
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1379,6 +1723,12 @@ MonoBehaviour:
     m_LastAppliedPresetName: Default
     m_SaveData: []
 --- !u!114 &21
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
 >>>>>>> parent of e97fc218 (gan yama cammit)
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1409,6 +1759,12 @@ MonoBehaviour:
     y: 607
     width: 1465
     height: 384
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
 >>>>>>> parent of e97fc218 (gan yama cammit)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -1594,6 +1950,12 @@ MonoBehaviour:
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 207
 --- !u!114 &22
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit)
+=======
 >>>>>>> parent of e97fc218 (gan yama cammit)
 MonoBehaviour:
   m_ObjectHideFlags: 52

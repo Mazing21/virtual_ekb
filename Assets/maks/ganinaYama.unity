@@ -130,7 +130,15 @@ Mesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
   m_Name: pb_Mesh24114
+=======
+  m_Name: pb_Mesh135338
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+  m_Name: pb_Mesh135338
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
   m_Name: pb_Mesh135338
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
@@ -378,7 +386,15 @@ Mesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
   m_Name: pb_Mesh24448
+=======
+  m_Name: pb_Mesh135802
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+  m_Name: pb_Mesh135802
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
   m_Name: pb_Mesh135802
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
@@ -1627,7 +1643,15 @@ Mesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
   m_Name: pb_Mesh24332
+=======
+  m_Name: pb_Mesh135634
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+  m_Name: pb_Mesh135634
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
   m_Name: pb_Mesh135634
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
@@ -2070,7 +2094,15 @@ Mesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
   m_Name: pb_Mesh24644
+=======
+  m_Name: pb_Mesh136104
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+  m_Name: pb_Mesh136104
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
   m_Name: pb_Mesh136104
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
@@ -3098,7 +3130,15 @@ Mesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
   m_Name: pb_Mesh24588
+=======
+  m_Name: pb_Mesh136042
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+  m_Name: pb_Mesh136042
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
   m_Name: pb_Mesh136042
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
@@ -3309,7 +3349,15 @@ Mesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
   m_Name: pb_Mesh24260
+=======
+  m_Name: pb_Mesh135548
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+  m_Name: pb_Mesh135548
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
   m_Name: pb_Mesh135548
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
@@ -3519,6 +3567,8 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: 1879900250216117662, guid: 264cbbc3e9ee9504d80804b9e933aff1, type: 3}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
 --- !u!1 &250738174
 GameObject:
   m_ObjectHideFlags: 0
@@ -3551,6 +3601,10 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 --- !u!1 &251176293 stripped
@@ -3841,7 +3895,15 @@ Mesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
   m_Name: pb_Mesh24488
+=======
+  m_Name: pb_Mesh135868
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+  m_Name: pb_Mesh135868
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
   m_Name: pb_Mesh135868
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
@@ -9280,7 +9342,15 @@ Mesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
   m_Name: pb_Mesh25088
+=======
+  m_Name: pb_Mesh136790
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+  m_Name: pb_Mesh136790
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
   m_Name: pb_Mesh136790
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
@@ -13181,6 +13251,8 @@ Transform:
   m_PrefabInstance: {fileID: 1342882500}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
 --- !u!1 &880934759 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8912291180476625485, guid: 9589fbb6f6dbdf24f87cfb7f71878d40, type: 3}
@@ -13298,6 +13370,10 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 883309764}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 --- !u!1001 &888740372
@@ -15161,6 +15237,8 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -6536968222941113220, guid: 6158056427f23c7429bf80f4e8e61f44, type: 3}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
 --- !u!1 &991292641
 GameObject:
   m_ObjectHideFlags: 0
@@ -15192,6 +15270,10 @@ Transform:
   m_Father: {fileID: 4490258685926775}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 --- !u!1001 &994752334
@@ -17871,7 +17953,15 @@ Mesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
   m_Name: pb_Mesh24752
+=======
+  m_Name: pb_Mesh136250
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+  m_Name: pb_Mesh136250
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
   m_Name: pb_Mesh136250
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
@@ -18177,7 +18267,15 @@ Mesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
   m_Name: pb_Mesh23802
+=======
+  m_Name: pb_Mesh134872
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+  m_Name: pb_Mesh134872
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
   m_Name: pb_Mesh134872
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
@@ -18431,7 +18529,15 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
   m_RootOrder: 3
+=======
+  m_RootOrder: 14
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+  m_RootOrder: 14
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
   m_RootOrder: 14
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
@@ -19623,7 +19729,15 @@ Mesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
   m_Name: pb_Mesh25108
+=======
+  m_Name: pb_Mesh136814
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+  m_Name: pb_Mesh136814
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
   m_Name: pb_Mesh136814
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
@@ -20384,6 +20498,8 @@ Transform:
   m_PrefabInstance: {fileID: 1313974108}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
 --- !u!1 &1327019509
 GameObject:
   m_ObjectHideFlags: 0
@@ -20485,6 +20601,10 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 --- !u!1001 &1341150659
@@ -22260,7 +22380,15 @@ Mesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
   m_Name: pb_Mesh24714
+=======
+  m_Name: pb_Mesh136194
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+  m_Name: pb_Mesh136194
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
   m_Name: pb_Mesh136194
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
@@ -23167,7 +23295,15 @@ Mesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
   m_Name: pb_Mesh24888
+=======
+  m_Name: pb_Mesh136456
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+  m_Name: pb_Mesh136456
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
   m_Name: pb_Mesh136456
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
@@ -24157,7 +24293,15 @@ Mesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
   m_Name: pb_Mesh25054
+=======
+  m_Name: pb_Mesh136742
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+  m_Name: pb_Mesh136742
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
   m_Name: pb_Mesh136742
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
@@ -26028,7 +26172,15 @@ Mesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
   m_Name: pb_Mesh24420
+=======
+  m_Name: pb_Mesh135744
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+  m_Name: pb_Mesh135744
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
   m_Name: pb_Mesh135744
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
@@ -26391,7 +26543,15 @@ Mesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
   m_Name: pb_Mesh24022
+=======
+  m_Name: pb_Mesh135208
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+  m_Name: pb_Mesh135208
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
   m_Name: pb_Mesh135208
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
@@ -27566,7 +27726,15 @@ Mesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
   m_Name: pb_Mesh24082
+=======
+  m_Name: pb_Mesh135290
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+  m_Name: pb_Mesh135290
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
   m_Name: pb_Mesh135290
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
@@ -28770,6 +28938,8 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: 6255687079079774844, guid: 0cd7da6d2744727448e6ae862988a250, type: 3}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
 --- !u!1 &1828315271 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4973285277144571489, guid: 9589fbb6f6dbdf24f87cfb7f71878d40, type: 3}
@@ -28873,6 +29043,10 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 --- !u!1001 &1844570724
@@ -29387,7 +29561,15 @@ Mesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
   m_Name: pb_Mesh23934
+=======
+  m_Name: pb_Mesh135092
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+  m_Name: pb_Mesh135092
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
   m_Name: pb_Mesh135092
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
@@ -29640,7 +29822,15 @@ Mesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
   m_Name: pb_Mesh25326
+=======
+  m_Name: pb_Mesh137184
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+  m_Name: pb_Mesh137184
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
   m_Name: pb_Mesh137184
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
@@ -30744,6 +30934,8 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: 1879900250216117662, guid: 264cbbc3e9ee9504d80804b9e933aff1, type: 3}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
 --- !u!43 &1945702732
 Mesh:
   m_ObjectHideFlags: 0
@@ -31004,6 +31196,10 @@ Light:
   m_ShadowAngle: 0
 =======
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 --- !u!1001 &1973049757
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -31201,7 +31397,15 @@ Mesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
+<<<<<<< HEAD:Assets/maks/ganinaYama.unity
   m_Name: pb_Mesh25452
+=======
+  m_Name: pb_Mesh137394
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
+=======
+  m_Name: pb_Mesh137394
+>>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
 =======
   m_Name: pb_Mesh137394
 >>>>>>> parent of e97fc218 (gan yama cammit):Assets/Scenes/ganinaYama.unity
