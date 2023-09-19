@@ -1332,7 +1332,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 1.5
+    value: 3.26
   color:
     overrideState: 1
     value: {r: 0.38679248, g: 0.36256358, b: 0.3302332, a: 1}
@@ -1350,7 +1350,7 @@ MonoBehaviour:
     value: -12
   thicknessModifier:
     overrideState: 1
-    value: 4
+    value: 4.19
   directLightingStrength:
     overrideState: 0
     value: 0

@@ -1,8 +1,15 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/prefabs/Sirk/Materials/Без+названия-Google Earth Snapshot#4.mat.meta
 guid: 45c7c17080888174ba20831c643f43b8
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 2100000
+========
+guid: 0817a94c5a9dcea4996e62a8943eea41
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+>>>>>>>> parent of e97fc218 (gan yama cammit):Assets/New Lighting Settings.lighting.meta
   userData: 
   assetBundleName: 
   assetBundleVariant: 
